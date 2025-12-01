@@ -108,8 +108,10 @@ Feel free to open an **issue** or submit a **pull request**.
 
 **Aditya Jadhav**  
 Beginner Cloud & DevOps Learner  
+
 📧 **adijadhav8446@gmail.com**  
 🌐 **GitHub Profile:** https://github.com/AdiJadhav1608
+🔗 **LinkedIn:** https://www.linkedin.com/in/aditya-jadhav-718087339/
 
 ---
 
